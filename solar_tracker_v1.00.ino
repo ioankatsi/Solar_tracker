@@ -1,6 +1,6 @@
 /**
- * @author      Ioannis Katsikavelas <>
-                Dimitrios Tsoukantanas <d.tsoukantanas@yahoo.com 
+ * @author      Ioannis Katsikavelas <ioankats93@gmail.com>
+                Dimitrios Tsoukantanas <d.tsoukantanas@yahoo.com>
  * @copyright   2015 - Ioannis Katsikavelas - Dimitrios Tsoukantanas
  * @license     {@link http://choosealicense.com/licenses/mit/ | MIT License}
  */
